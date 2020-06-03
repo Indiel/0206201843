@@ -1,0 +1,10 @@
+.likes {
+  margin: 0 18px;
+  display: flex;
+  align-items: center;
+}
+
+.likes__sum {
+  font-size: 0.85rem;
+  margin-left: 5px;
+}

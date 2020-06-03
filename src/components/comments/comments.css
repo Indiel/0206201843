@@ -1,0 +1,9 @@
+.comments {
+  display: flex;
+  align-items: center;
+}
+
+.comments__sum {
+  font-size: 0.85rem;
+  margin-left: 5px;
+}
